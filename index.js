@@ -1,5 +1,6 @@
 const express = require("express");
 const path = require("path");
+const cors = require("cors");
 const dotenv = require("dotenv");
 dotenv.config();
 const app = express();
@@ -25,6 +26,7 @@ const fridges = [
   },
 ];
 
+app.use(cors());
 app.get("/", (req, res) => {
   res.json(fridges);
 });
