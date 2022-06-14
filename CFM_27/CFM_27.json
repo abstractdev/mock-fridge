@@ -1,17 +1,41 @@
 [
   {
-    "fridge_state": "ny",
-    "name": "cooperparkfridge",
-    "display_name": "Cooper Park Fridge",
+    "display_name": "Cooper Park Fridge1",
     "address": "76 Kingland Ave, Brooklyn, NY 11221",
     "instagram": "https://www.instagram.com/cooperparkfridge/",
     "last_edited": 12922,
     "profile_image": "https://i.imgur.com/8r9kCox.png"
   },
   {
-    "fridge_state": "ny",
-    "name": "eastwilliamsburgcommunityfridge",
-    "display_name": "East Williamsburg Community Fridge",
+    "display_name": "Cooper Park Fridge2",
+    "address": "76 Kingland Ave, Brooklyn, NY 11221",
+    "instagram": "https://www.instagram.com/cooperparkfridge/",
+    "last_edited": 12922,
+    "profile_image": "https://i.imgur.com/8r9kCox.png"
+  },
+  {
+    "display_name": "Cooper Park Fridge3",
+    "address": "76 Kingland Ave, Brooklyn, NY 11221",
+    "instagram": "https://www.instagram.com/cooperparkfridge/",
+    "last_edited": 12922,
+    "profile_image": "https://i.imgur.com/8r9kCox.png"
+  },
+  {
+    "display_name": "East Williamsburg Community Fridge1",
+    "address": "45 Highland Ave, Brooklyn, NY 11211",
+    "instagram": "https://www.instagram.com/eastwburgfridge/",
+    "last_edited": 13022,
+    "profile_image": "https://i.imgur.com/om8EUwW.png"
+  },
+  {
+    "display_name": "East Williamsburg Community Fridge2",
+    "address": "45 Highland Ave, Brooklyn, NY 11211",
+    "instagram": "https://www.instagram.com/eastwburgfridge/",
+    "last_edited": 13022,
+    "profile_image": "https://i.imgur.com/om8EUwW.png"
+  },
+  {
+    "display_name": "East Williamsburg Community Fridge3",
     "address": "45 Highland Ave, Brooklyn, NY 11211",
     "instagram": "https://www.instagram.com/eastwburgfridge/",
     "last_edited": 13022,
